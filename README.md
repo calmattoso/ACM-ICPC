@@ -1,3 +1,3 @@
-ICM-ACPC
+ACM-ICPC
 ========
 One year to learn.
